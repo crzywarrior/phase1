@@ -1,0 +1,22 @@
+FUNCTIONS:
+
+~
+~ write the func to calculate the first and last digit of a num, the num should be taken as argument.
+
+~ write a login func which accepts the user only when the username & password are same and displays the msge "login successful" otherwise it keeps asking the user to enter the candetails until the correct.
+
+RECUSION:
+~ write a recursive prgrm to print a digit in reverse order.
+
+~ write a recursive func to count the no. of digits.
+
+~ write a recursive func to print armstrong.
+
+======================================================================================================================
+
+LIST:
+
+list = [12,42,23,96,7,18,10,133]
+
+add min & max
+
